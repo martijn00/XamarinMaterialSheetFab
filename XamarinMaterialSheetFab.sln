@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinMaterialSheetFab", "XamarinMaterialSheetFab\XamarinMaterialSheetFab.csproj", "{7AE82F9E-463E-4612-8B72-AEE52320586C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinMaterialSheetFab.Sample", "Sample\XamarinMaterialSheetFab.Sample.csproj", "{8A376E70-777E-49ED-8E16-68A36081B501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE82F9E-463E-4612-8B72-AEE52320586C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE82F9E-463E-4612-8B72-AEE52320586C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE82F9E-463E-4612-8B72-AEE52320586C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE82F9E-463E-4612-8B72-AEE52320586C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A376E70-777E-49ED-8E16-68A36081B501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A376E70-777E-49ED-8E16-68A36081B501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A376E70-777E-49ED-8E16-68A36081B501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A376E70-777E-49ED-8E16-68A36081B501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
